@@ -1,5 +1,5 @@
 # Object_Detection
-##A generic model which is able to identify and count three types (not limited to three objects) that is nut, botlt and washers.
+##A generic model which is able to identify and count three types (not limited to three objects) that is nut, bolts and washers.
 #Link(For dataset)
 
 https://drive.google.com/drive/folders/1S7SH-AGQJ1gJpCGoxoK4ZYp1_vnsSAx_?usp=drive_link
